@@ -15,7 +15,7 @@ This is a **WebView-based Flutter application** crafted for a seamless browsing 
   
 - ### **Dynamic Tab Bar**
   - Collapsing tab bar for different game platforms, with a double-tap to minimize.
-  - Dropdown navigation for easy platform switching.
+  - Navigation for easy platform switching.
 
 - ### **Clean Architecture**
   - Organized into layers (presentation, model, providers, screens, data) for modularity and scalability.
