@@ -90,7 +90,18 @@ Follow these steps to set up and run the app:
    </dict>
    ```
 
-### 4. **Run the App**
+### 4. **Build the APK**
+
+   To build the APK for your app, run the following command:
+   ```bash
+   flutter build apk
+   ```
+
+   The generated APK file will be located at `build/app/outputs/flutter-apk/app-release.apk`. You can find the APK in this path after a successful build.
+
+### 5. **Run the App on Android**
+
+   To run the app on an Android device or emulator, use:
    ```bash
    flutter run
    ```
